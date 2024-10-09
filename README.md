@@ -6,9 +6,11 @@ To run coverage report please run
 
 Navigate to target -> site -> jacoco -> index.html
 
-# Sample report
+# Sample report View
 
 <img width="1014" alt="Screenshot 2024-10-09 at 5 21 54 PM" src="https://github.com/user-attachments/assets/ecd4ee6a-5207-4c18-9aaf-d734f5a390c0">
+Link: https://docs.google.com/spreadsheets/d/1dqI90f4Zjja1ApYAggC2eMwOuyM_087l9RKWC6wvV54/edit?usp=sharing
+
 Median time between trades is analyzed to be 0 as it usually indicates a highly active market where multiple trades occur simultaneously or within a very short time frame. 
 Median time between tick changes is analyzed to be 0 as the data being measured has frequent and continuous changes, leading to many intervals of zero time between changes. 
 
