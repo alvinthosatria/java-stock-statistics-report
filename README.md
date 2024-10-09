@@ -1,6 +1,6 @@
 # Languages & Tools
 Java 21, Maven, JUnit 5
-To run coverage report please run\n
+To run coverage report please run
 
 **mvn jacoco:prepare-agent test install jacoco:report**
 
