@@ -8,7 +8,8 @@ To run coverage report please run:
 Then navigate to target -> site -> jacoco -> index.html to find test coverage report
 
 # Test coverage report reference
-<img width="997" alt="Screenshot 2024-10-10 at 6 59 24 PM" src="https://github.com/user-attachments/assets/03c9d8de-a23d-4f48-990c-d350b1195c75">
+
+<img width="997" alt="Screenshot 2024-10-10 at 6 59 24 PM" src="https://github.com/user-attachments/assets/7f7df3bc-9046-4906-9f35-9dbb71cdf445">
 
 # Assumption
 
